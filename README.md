@@ -43,11 +43,11 @@ GET /api/reservations/all: Endpoint to retrieve all reservations in the system.
 ## Task 4: Testing
 Write comprehensive test classes for your Apex classes and REST API endpoints, ensuring at least 85% code coverage. Test various scenarios including:
 
-Creating a reservation without conflicts.
-Attempting to create a reservation with a date range that conflicts with an existing reservation.
-Retrieving reservations for a specific unit.
-Retrieving all reservations within a specific date range.
-Retrieving all reservations in the system.
+- Creating a reservation without conflicts.
+- Attempting to create a reservation with a date range that conflicts with an existing reservation.
+- Retrieving reservations for a specific unit.
+- Retrieving all reservations within a specific date range.
+- Retrieving all reservations in the system.
 
 ## Task 5: Create and Share an Unmanaged Package
 Package all your components into an unmanaged package. Provide detailed instructions on how to install this package into another Salesforce sandbox environment. Include the following:
