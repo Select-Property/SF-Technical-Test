@@ -1,4 +1,4 @@
-# SF-Technical-Test
+# Salesforce Technical Test
 
 ## Objective:
 Develop Salesforce functionality to manage room units and reservations for a hypothetical property management system.
