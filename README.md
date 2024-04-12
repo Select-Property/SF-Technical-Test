@@ -61,4 +61,11 @@ Package your source code in a ZIP file including:
 Apex Classes
 Apex Triggers (if any)
 Test Classes
-A FOLLOW.md file explaining how to deploy your code to a Salesforce org and any assumptions you made during the development.
+A FOLLOW.md file explaining:
+- How to deploy your code to a Salesforce org.
+- Any assumptions you made during the development.
+
+We would really appreciate your feedback by answering the following questions? (this section isn't mandatory :D)
+- How did you find the test overall?
+- Did you have any issues or have difficulties completing?
+- If you have any suggestions on how we can improve the test, we'd love to hear them.
